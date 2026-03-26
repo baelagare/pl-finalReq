@@ -122,4 +122,4 @@ Ensure `logo.png` is available on the runtime classpath (often the root of the j
 
 ## License
 
-No license file is currently included in this repository. Add one if you want to open-source it.
+[![License](https://img.shields.io/github/license/baelagare/pl-finalReq.svg?style=flat-square)](LICENSE)   
